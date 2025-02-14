@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devin Bolden</h1>
 <h3 align="center">A blossoming Full-Stack Developer from Burleson, Texas</h3>
 
-- 🌱 I’m currently learning **Javascript, CSS, HTML, React, Node.js**
+- 🌱 I’m currently learning **Javascript, CSS, HTML, React, Node.js, C, Go**
 
 - 📫 How to reach me **devinbolden6@gmail.com**
 
